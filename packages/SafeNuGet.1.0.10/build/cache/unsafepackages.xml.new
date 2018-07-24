@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unsafepackages>
+  <!-- Demo purposes only -->
+  <package id="NonExistent" version="1.0.0" />
+  
+  <!-- Actual packages - Have something you want to add? Please send a pull request -->
+  <!-- possible version descriptors are version, before, beforeOrAt, after, afterOrAt -->
+  <package id="AntiXSS" before="4.2.1" infoUri="http://technet.microsoft.com/en-us/security/bulletin/ms12-007" />
+  <package id="Bytescout.Spreadsheet" before="2.30.1183" infoUri="https://nuget.org/packages/Bytescout.Spreadsheet/2.3.0.1247" />
+  <package id="Aspose.Pdf" before="7.4.0" infoUri="https://nuget.org/packages/Aspose.Pdf/7.4.0" />
+  <package id="LibGit2Sharp" before="0.20.1" infoUri="https://twitter.com/libgit2sharp/status/545695361114050560" />
+  <package id="NServiceBus" before="3.2.8" infoUri="http://tech.groups.yahoo.com/group/nservicebus/message/15582" />
+  <package id="Microsoft.Data.Services" beforeOrAt="5.0.1" infoUri="http://blogs.msdn.com/b/astoriateam/archive/2012/10/09/important-security-advisory-2749655-affects-wcf-ds.aspx" />
+  <package id="MvvmLight" before="4.1.26.0" infoUri="http://www.galasoft.ch/mvvm/installing/changes/" />
+  <package id="UmbracoCms" before="6.0.5" afterOrAt="6.0.0" infoUri="http://umbraco.com/follow-us/blog-archive/2013/5/1/security-update-two-major-vulnerabilities-found.aspx" />
+  <package id="UmbracoCms" before="4.11.8" afterOrAt="4.5.0" infoUri="http://umbraco.com/follow-us/blog-archive/2013/5/1/security-update-two-major-vulnerabilities-found.aspx" />
+
+  <package id="jQuery.Migrate" before="1.2.0" infoUri="http://blog.jquery.com/2013/05/01/jquery-migrate-1-2-0-released/" />
+
+  <package id="jQuery" afterOrAt="1.6" before="1.6.3" infoUri="http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-4969" />
+  <package id="jQuery" before="1.9.0" infoUri="http://bugs.jquery.com/ticket/11290" />
+
+  <package id="jQuery.UI.Combined" before="1.10.0" infoUri="http://bugs.jqueryui.com/ticket/6016" />
+
+  <package id="Ember" before="1.0.0-rc61" infoUri="https://groups.google.com/forum/#!topic/ember-security/dokLVwwxAdM" />
+  <package id="Ember" before="1.3.1" infoUri="https://groups.google.com/forum/#!topic/ember-security/2kpXXCxISS4" />
+  <package id="Ember" afterOrAt="1.4.0-beta1" before="1.4.0-beta4" infoUri="https://groups.google.com/forum/#!topic/ember-security/2kpXXCxISS4" />
+
+
+  <package id="Backbone.js" before="0.5.3" infoUri="http://backbonejs.org/#changelog" />
+  
+  <package id="mustache.js" before="0.3.1" infoUri="https://github.com/janl/mustache.js/issues/112" />
+
+  <package id="GleamTech.Core" before="1.0.6" infoUri="https://www.nuget.org/packages/GleamTech.Core/" />
+
+  <package id="WiX.Toolset.UnofficialFork" before="3.10.2" infoUri="https://www.nuget.org/packages/WiX.Toolset.UnofficialFork/3.10.2" />
+  
+  <package id="bzip2.v100" before="1.0.6" infoUri="https://www.nuget.org/packages/bzip2.v100/" />
+  
+  <package id="FileUltimate" before="5.0.7" infoUri="https://www.nuget.org/packages/FileUltimate/5.0.7" />
+  <package id="Twilio.Mvc" before="3.2.1" infoUri="https://www.nuget.org/packages/Twilio.Mvc/" />
+  <package id="Node.js" before="4.1.2" infoUri="https://www.nuget.org/packages/Node.js/4.1.2" />
+  <package id="Premotion.AspNet.AppHarbor.Integration" before="0.3.0" infoUri="https://www.nuget.org/packages/Premotion.AspNet.AppHarbor.Integration/0.3.0" />
+  
+  <package id="Microsoft.IdentityModel.Tokens" before="5.1.2" infoUri="https://technet.microsoft.com/library/security/3214296" />
+  
+</unsafepackages>
